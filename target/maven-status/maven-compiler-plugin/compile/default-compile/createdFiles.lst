@@ -1,0 +1,14 @@
+com/adobe/platform/operation/samples/exportpdf/ExportPDFToDOCX.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFWithCustomTimeouts.class
+com/adobe/platform/operation/samples/combine/CombinePDF.class
+com/adobe/platform/operation/samples/combine/CombinePDFWithPageRanges.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFFromDOCXToOutputStream.class
+com/adobe/platform/operation/samples/ocr/OcrPDFWithOptions.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFFromDynamicHTML.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFFromDOCXInputStream.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFFromStaticHTML.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFWithInMemoryAuthCredentials.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFFromDOCX.class
+com/adobe/platform/operation/samples/exportpdf/ExportPDFToJPEG.class
+com/adobe/platform/operation/samples/ocr/OcrPDF.class
+com/adobe/platform/operation/samples/createpdf/CreatePDFFromPPTX.class
