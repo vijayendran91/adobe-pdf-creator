@@ -1,5 +1,0 @@
-#!usr/bin/env ruby
-require 'bundler/setup'
-require 'pdf_creator/cli'
-
-PdfCreator::Cli.start
