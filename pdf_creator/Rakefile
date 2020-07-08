@@ -5,8 +5,8 @@ RSpec::Core::RakeTask.new(:spec)
 
 task :default => :spec
 
-namespace :pdf_creator do
-    task :install_gems do
-        system "rake build && rake install"
+namespace :pdf_create do
+    task :build do
+        system "rake build && rake"
     end
 end
