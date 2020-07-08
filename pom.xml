@@ -27,7 +27,8 @@
       <version>${dc.services.sdk.version}</version>
     </dependency>
 
-    <!--		log4j2 dependency to showcase the use of log4j2 with slf4j API-->
+    <!--		
+4j2 dependency to showcase the use of log4j2 with slf4j API-->
     <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-log4j12 -->
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
