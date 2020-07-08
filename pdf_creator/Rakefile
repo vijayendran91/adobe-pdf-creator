@@ -4,3 +4,9 @@ require "rspec/core/rake_task"
 RSpec::Core::RakeTask.new(:spec)
 
 task :default => :spec
+
+namespace :pdf_creator do
+    task :install_gems do
+        system "rake build && rake install"
+    end
+end
